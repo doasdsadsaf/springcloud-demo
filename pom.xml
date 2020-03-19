@@ -11,6 +11,8 @@
         <module>vip-fencaibc-client-b1</module>
         <module>vip-fencaibc-client-b2</module>
         <module>vip-fencaibc-hystrix</module>
+        <module>vip-fencai-feign-client</module>
+        <module>vip-fencai-feign-server</module>
     </modules>
 
     <parent>

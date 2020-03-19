@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-eureka-server" />
         <module name="vip-eureka-client" />
+        <module name="vip-fencai-feign-client" />
+        <module name="vip-fencai-feign-server" />
         <module name="vip-fencaibc-clent-a" />
         <module name="vip-fencaibc-client-b1" />
         <module name="vip-fencaibc-client-b2" />
@@ -20,6 +22,8 @@
       <module name="demo-eureka-server" options="-parameters" />
       <module name="springcloud-demo" options="-parameters" />
       <module name="vip-eureka-client" options="-parameters" />
+      <module name="vip-fencai-feign-client" options="-parameters" />
+      <module name="vip-fencai-feign-server" options="-parameters" />
       <module name="vip-fencaibc-clent-a" options="-parameters" />
       <module name="vip-fencaibc-client-b1" options="-parameters" />
       <module name="vip-fencaibc-client-b2" options="-parameters" />
