@@ -1,4 +1,4 @@
-package vip.fencaibc.hystrix;
+package vip.fencaibc.hystrix.controller;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.web.bind.annotation.GetMapping;

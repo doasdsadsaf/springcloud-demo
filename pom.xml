@@ -25,6 +25,8 @@
 
     <!--SpringCloud依赖-->
     <dependencyManagement>
+  <!--      <dependencies>Log</dependencies>-->
+
         <dependencies>
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
