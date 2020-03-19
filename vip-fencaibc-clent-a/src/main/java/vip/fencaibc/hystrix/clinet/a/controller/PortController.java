@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+import java.util.HashMap;
 import java.util.Map;
 
 @RestController
@@ -19,4 +20,12 @@ public class PortController {
         Map<String,Object> result = restTemplate.getForObject(url,Map.class);
         return result;
     }
+
+    @GetMapping("/aa")
+    public Map<String,Object> aa(){
+        Map<String,Object> result = new HashMap<>();
+        result.put("aa","aa");
+        return result;
+    }
+
 }

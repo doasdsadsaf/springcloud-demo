@@ -13,6 +13,7 @@
         <module>vip-fencaibc-hystrix</module>
         <module>vip-fencai-feign-client</module>
         <module>vip-fencai-feign-server</module>
+        <module>vip-fencaibc-zuul</module>
     </modules>
 
     <parent>

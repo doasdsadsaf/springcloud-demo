@@ -14,6 +14,7 @@
         <module name="vip-fencaibc-client-b1" />
         <module name="vip-fencaibc-client-b2" />
         <module name="vip-fencaibc-hystrix" />
+        <module name="vip-fencaibc-zuul" />
       </profile>
     </annotationProcessing>
   </component>
@@ -28,6 +29,7 @@
       <module name="vip-fencaibc-client-b1" options="-parameters" />
       <module name="vip-fencaibc-client-b2" options="-parameters" />
       <module name="vip-fencaibc-hystrix" options="-parameters" />
+      <module name="vip-fencaibc-zuul" options="-parameters" />
     </option>
   </component>
 </project>
