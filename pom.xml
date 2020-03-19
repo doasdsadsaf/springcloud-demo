@@ -10,6 +10,7 @@
         <module>vip-fencaibc-clent-a</module>
         <module>vip-fencaibc-client-b1</module>
         <module>vip-fencaibc-client-b2</module>
+        <module>vip-fencaibc-hystrix</module>
     </modules>
 
     <parent>

@@ -1,4 +1,4 @@
-package vip.fencaibc.clinet.a.controller;
+package vip.fencaibc.hystrix.clinet.a.controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
